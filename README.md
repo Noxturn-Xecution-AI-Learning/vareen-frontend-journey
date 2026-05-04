@@ -21,10 +21,10 @@ Digunakan untuk menentukan arah dan target belajar.
 
 **Struktur Repo**
 
-* `okr/` → Target belajar (Objective & Key Results)
-* `logs/` → Progress harian & tracking Pomodoro
-* `knowledge-base/` → Catatan konsep, insight, dan kesalahan
-* `projects/` → Hasil implementasi (project nyata)
+* [OKR](./okr/) → Target belajar (Objective & Key Results)
+* [Logs](./logs/) → Progress harian & tracking Pomodoro
+* [Knowledge Base](./knowledge-base/) → Catatan konsep, insight, dan kesalahan
+* [Projects](./projects/) → Hasil implementasi (project nyata)
 
 
 **Workflow Belajar**
