@@ -1,4 +1,4 @@
-# 🎯 Frontend OKR (Pomodoro-Based)
+# Frontend OKR (Pomodoro-Based)
 
 Metode:
 
@@ -7,9 +7,9 @@ Metode:
 
 ---
 
-## 🧠 Objective 1: HTML Dasar
+## Objective 1: HTML Dasar
 
-| 🍅 Pomodoro | Fokus            | Key Result (Langkah Detail)              | ⏱️  |
+| Pomodoro | Fokus            | Key Result (Langkah Detail)              | Waktu  |
 | ----------- | ---------------- | ---------------------------------------- | --- |
 | 1           | Setup & Struktur | Membuat file `index.html`                | 2m  |
 |             |                  | Menulis `<!DOCTYPE html>`                | 2m  |
@@ -44,9 +44,9 @@ Metode:
 
 ---
 
-## 🎨 Objective 2: CSS Dasar
+## Objective 2: CSS Dasar
 
-| 🍅 Pomodoro | Fokus         | Key Result (Langkah Detail) | ⏱️  |
+|  Pomodoro | Fokus         | Key Result (Langkah Detail) | Waktu  |
 | ----------- | ------------- | --------------------------- | --- |
 | 1           | Setup CSS     | Membuat `style.css`         | 3m  |
 |             |               | Menghubungkan ke HTML       | 5m  |
@@ -79,9 +79,9 @@ Metode:
 
 ---
 
-## ⚡ Objective 3: JavaScript Dasar
+## Objective 3: JavaScript Dasar
 
-| 🍅 Pomodoro | Fokus        | Key Result (Langkah Detail) | ⏱️  |
+|  Pomodoro | Fokus        | Key Result (Langkah Detail) | Waktu  |
 | ----------- | ------------ | --------------------------- | --- |
 | 1           | Setup JS     | Membuat `script.js`         | 3m  |
 |             |              | Menghubungkan ke HTML       | 5m  |
@@ -109,9 +109,9 @@ Metode:
 
 ---
 
-## 🧩 Objective 4: Mini Project
+##  Objective 4: Mini Project
 
-| 🍅 Pomodoro | Fokus    | Key Result (Langkah Detail) | ⏱️  |
+|  Pomodoro | Fokus    | Key Result (Langkah Detail) | Waktu  |
 | ----------- | -------- | --------------------------- | --- |
 | 1           | Planning | Menentukan ide              | 10m |
 |             |          | Membuat wireframe           | 10m |
@@ -129,7 +129,7 @@ Metode:
 
 ---
 
-## 📊 Rules
+##  Rules
 
 * 1 Pomodoro = 25 menit
 * Ikuti urutan (jangan lompat)
