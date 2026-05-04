@@ -1,7 +1,5 @@
 **Vareen Frontend Journey**
 
-**Deskripsi**
-
 Repo ini adalah dokumentasi perjalanan belajar frontend dari dasar menggunakan pendekatan terstruktur berbasis OKR dan Pomodoro.
 
 
@@ -11,6 +9,7 @@ Repo ini adalah dokumentasi perjalanan belajar frontend dari dasar menggunakan p
 * Membangun kebiasaan belajar yang konsisten dan terukur
 
 **Sistem yang Digunakan**
+
 **- OKR (Objective & Key Results)**
 
 Digunakan untuk menentukan arah dan target belajar.
