@@ -133,5 +133,3 @@ Metode:
 
 * 1 Pomodoro = 25 menit
 * Ikuti urutan (jangan lompat)
-* Jika belum selesai → lanjut Pomodoro berikutnya
-* Fokus ke eksekusi, bukan mikir terlalu lama
