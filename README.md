@@ -5,16 +5,18 @@
 Repo ini adalah dokumentasi perjalanan belajar frontend dari dasar menggunakan pendekatan terstruktur berbasis OKR dan Pomodoro.
 
 
-**Tujuan
+**Tujuan**
 * Menguasai HTML, CSS, dan JavaScript (vanilla)
 * Mampu membuat website tanpa bergantung pada tutorial
 * Membangun kebiasaan belajar yang konsisten dan terukur
 
 **Sistem yang Digunakan**
 **- OKR (Objective & Key Results)**
+
 Digunakan untuk menentukan arah dan target belajar.
 
 **- Pomodoro Technique**
+
 1 sesi = 25 menit fokus
 
 
